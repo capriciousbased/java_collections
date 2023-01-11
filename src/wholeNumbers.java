@@ -1,14 +1,14 @@
 import java.util.ArrayList;
 
-public class Arraylist {
+public class wholeNumbers {
 
   public static void main(String[] args) {
     ArrayList<Integer> numbers = new ArrayList<Integer>();
-    numbers.add(3034);
-    numbers.add(745);
-    numbers.add(145);
-    numbers.add(92);
-    numbers.add(132);
+    numbers.add(3454);
+    numbers.add(7343);
+    numbers.add(1232);
+    numbers.add(93);
+    numbers.add(5542);
 
     int max = findMax(numbers);
     System.out.println("The maximum value is: " + max);
