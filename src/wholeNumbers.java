@@ -31,5 +31,10 @@ public class wholeNumbers {
         System.out.println(num);
       }
     }
+    /*     for(int i=0; i<numbers.size(); i++) {
+      if (numbers.get(i) % 2 == 0) {
+          System.out.println(numbers.get(i));
+      }
+  } */
   }
 }
